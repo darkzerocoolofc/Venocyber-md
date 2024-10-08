@@ -62,9 +62,9 @@
       "translatte": "^3.0.1",
       "util": "^0.12.4",
       "wa-sticker-formatter": "^4.3.2",
-      "youtubei.js": "^7.0.0",
-      "ytdl-core": "^4.11.5",
-      "ytdl-secktor": "^0.0.1-development"
+      "youtubei.js": "^4.11.7",
+      "ytdl-core": "^4.11.7",
+      "ytsearch-venom": "^1.0.0"
    },
    "directories": {
       "lib": "lib",
